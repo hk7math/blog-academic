@@ -25,12 +25,12 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: All
+  - name: ALL
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: VIZ
+    tag: 數據
+  - name: EDU
+    tag: 教育
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
