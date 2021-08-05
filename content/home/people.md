@@ -6,16 +6,16 @@ headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
 title: 巨匠大神
-subtitle: 帶領歷史潮流的前沿思想
+subtitle: Master Minds
 weight: 80
 
 content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-    - 科技
-    - 數理
-    - 人文
+    - 科技 Technology
+    - 數理 Science
+    - 人文 Humanities
 
 design:
   # Show user's social networking links? (true/false)

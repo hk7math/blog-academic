@@ -10,7 +10,7 @@ headless: true
 weight: 60
 
 title: 最近更新
-subtitle:
+subtitle: Recent Updates
 
 content:
   # Page type to display. E.g. post, talk, publication...

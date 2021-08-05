@@ -67,7 +67,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 科技
+- 科技 Technology
 
 ---
 數位政務委員，業務為社會企業、青年事務、開放政府。

@@ -4,16 +4,16 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: 簡介
+  - name: 簡介 ABOUT
     url: '#about'
     weight: 10
-  - name: 文字
+  - name: 文字 BLOG
     url: '#posts'
     weight: 20
-  - name: 作品
+  - name: 作品 PAST
     url: '#projects'
     weight: 30
-  - name: 聯絡
+  - name: 聯絡 SAY HI
     url: '#contact'
     weight: 60
 

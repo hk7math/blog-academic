@@ -1,10 +1,7 @@
 ---
 title: Ex@MC
 summary: 關於溫習、考試、教育的反思與實驗
-tags:
-- 教育
-- 科技
-- 考試
+tags: ["教育 Edu", "科技 Tech", "考試 Exam"]
 date: "2021-07-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

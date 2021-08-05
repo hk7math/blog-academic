@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "JS 組合算法 Combination Algorithm"
+title: "JS | 組合算法 Combination Algorithm"
 subtitle: ""
 summary: ""
 authors: []

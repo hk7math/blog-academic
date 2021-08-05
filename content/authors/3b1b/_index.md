@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Yuval Noah Harari
+title: 3Blue1Brown
 
 # Username (this should match the folder name)
 authors:
-- ynharari
+- 3b1b
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Harari
+# role: 3B1B
 
 # Organizations/Affiliations
-organizations:
-- name: ynharari
-  url: "https://www.ynharari.com/"
+# organizations:
+# - name: 3B1B
+#   url: "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: 地球人。信仰民主自由、開放多元，左而不膠。人文為體，科技為用。
@@ -42,20 +42,20 @@ organizations:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: globe
-  icon_pack: fas
-  link: https://www.ynharari.com/
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/
   
 - icon: facebook
   icon_pack: fab
-  link: http://www.facebook.com/%D7%99%D7%95%D7%91%D7%9C-%D7%A0%D7%97-%D7%94%D7%A8%D7%A8%D7%99-Yuval-Noah-Harari-350257731721892/  
+  link: https://fb.com/3blue1brown/
 # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
-- icon: twitter
+- icon: patreon
   icon_pack: fab
-  link: http://twitter.com/harari_yuval
+  link: https://www.patreon.com/3blue1brown/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,12 +68,6 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 人文
+- 數理 Science
 
 ---
-
-地球人。信仰民主自由、開放多元，左而不膠。人文為體，科技為用。
-
-創業者。LikeCoin、#decentralizehk 發起人，Creative Commons 成員。香港中文大學計算機工程學士、副修社會學、政治及行政；資訊科技管理碩士。於民院教育任教《區塊鏈社會學》。
-
-創作者。文章見於《明報》專欄 chungkin Express、各公民媒體及個人部落格 ckxpress.com 。

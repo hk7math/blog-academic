@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: '作品展示'
-subtitle: ''
+title: 作品展示
+subtitle: Project Portfolio
 
 content:
   # Page type to display. E.g. project.

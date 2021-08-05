@@ -10,7 +10,7 @@ headless: true
 weight: 70
 
 title: 常見標籤
-subtitle: ''
+subtitle: Tag Cloud
 
 content:
 # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
